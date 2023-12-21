@@ -1,0 +1,15 @@
+C:\Users\tshys\lab_TPR\lab_TPR\bin\Debug\net6.0\lab_TPR.exe
+C:\Users\tshys\lab_TPR\lab_TPR\bin\Debug\net6.0\lab_TPR.deps.json
+C:\Users\tshys\lab_TPR\lab_TPR\bin\Debug\net6.0\lab_TPR.runtimeconfig.json
+C:\Users\tshys\lab_TPR\lab_TPR\bin\Debug\net6.0\lab_TPR.dll
+C:\Users\tshys\lab_TPR\lab_TPR\bin\Debug\net6.0\lab_TPR.pdb
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.csproj.AssemblyReference.cache
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.AssemblyInfoInputs.cache
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.AssemblyInfo.cs
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.csproj.CoreCompileInputs.cache
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.dll
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\refint\lab_TPR.dll
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.pdb
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\lab_TPR.genruntimeconfig.cache
+C:\Users\tshys\lab_TPR\lab_TPR\obj\Debug\net6.0\ref\lab_TPR.dll
